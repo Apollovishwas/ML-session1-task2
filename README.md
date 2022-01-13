@@ -1,3 +1,3 @@
 # ML-session1-task2
 
-# Web scraping using beautifulsoup libray
+## Web scraping using beautifulsoup library
